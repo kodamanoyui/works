@@ -53,3 +53,9 @@ h1 {
   object-fit: contain;
   background: #eee8dc;
 }
+
+.work-date {
+  padding: 12px 16px;
+  color: #666;
+  font-size: 0.95rem;
+}
