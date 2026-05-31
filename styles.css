@@ -186,41 +186,6 @@ h1 {
   padding: 12px 14px 14px;
 }
 
-.post-actions {
-  display: flex;
-  gap: 14px;
-  align-items: center;
-  height: 24px;
-  margin-bottom: 6px;
-}
-
-.post-actions span {
-  display: block;
-  width: 22px;
-  height: 22px;
-  border: 2px solid #262626;
-}
-
-.post-actions span:first-child {
-  transform: rotate(45deg);
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
-  border-bottom-left-radius: 10px;
-}
-
-.post-actions span:nth-child(2) {
-  border-radius: 50%;
-}
-
-.post-actions span:last-child {
-  width: 0;
-  height: 0;
-  border-top: 11px solid transparent;
-  border-bottom: 11px solid transparent;
-  border-left: 20px solid #262626;
-  border-right: 0;
-}
-
 .post-footer time {
   display: block;
   font-size: 0.9rem;
